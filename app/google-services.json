@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "574424216693",
+    "firebase_url": "https://livechatapp-7650c.firebaseio.com",
+    "project_id": "livechatapp-7650c",
+    "storage_bucket": "livechatapp-7650c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574424216693:android:37d645ad78d1c957a4743c",
+        "android_client_info": {
+          "package_name": "com.otetcode.assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574424216693-a1e6o1kppg10arbss5l275i9btjl2jea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.otetcode.assistant",
+            "certificate_hash": "31735d6988846f3e5c22d8bf255dbfdf27e8d37c"
+          }
+        },
+        {
+          "client_id": "574424216693-f8noji41t6off8mmvtv3fl631ufsqsjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvnvTa1-RrjV3wyBAMIj5YqotVnb-_beE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574424216693-f8noji41t6off8mmvtv3fl631ufsqsjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
